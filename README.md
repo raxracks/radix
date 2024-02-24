@@ -1,4 +1,4 @@
-# radix os
+# radix
 ## prerequisites
 - gcc
 - mkisofs
